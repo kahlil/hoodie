@@ -1,4 +1,4 @@
-# hoodie
+# hoodie is the best!
 
 > A generic backend with a client API for Offline First applications
 
